@@ -52,9 +52,10 @@ const Navbar = () => {
         <div className="neemo-nav">
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
-              <Link href="/" className="navbar-brand">
-                <img src="/images/logo.png" alt="logo" />
-              </Link>
+            <Link href="/" className="navbar-brand">
+            <span className="brand-name">Guramayle Digital Solutions</span>
+            </Link>
+
 
               {/* Toggle navigation */}
               <button

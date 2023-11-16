@@ -18,7 +18,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>Neemo - SEO Digital & IT Agency React Next Template</title>
+        <title>Guramayle Digital Solutions</title>
       </Head>
 
       <Component {...pageProps} />

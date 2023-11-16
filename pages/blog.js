@@ -1,5 +1,5 @@
 import React from "react";
-import NavbarTwo from "../components/Layouts/NavbarTwo";
+import Navbar from "../components/Layouts/Navbar";
 import PageBanner from "../components/Common/PageBanner";
 import BlogCardContent from "../components/Blog/BlogCardContent";
 import Footer from "../components/Layouts/Footer";
@@ -7,7 +7,7 @@ import Footer from "../components/Layouts/Footer";
 const Blog = () => {
   return (
     <>
-      <NavbarTwo />
+      <Navbar />
 
       <PageBanner
         pageTitle="Blog"

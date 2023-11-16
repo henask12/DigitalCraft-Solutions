@@ -79,41 +79,9 @@ const Navbar = () => {
                       href="/"
                       className={`nav-link ${currentPath == "/" && "active"}`}
                     >
-                      Home <i className="fa-solid fa-plus"></i>
+                      Home <i className="fa-solid"></i>
                     </Link>
 
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link
-                          href="/"
-                          className={`nav-link ${
-                            currentPath == "/" && "active"
-                          }`}
-                        >
-                          Home Demo - 1
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/index2/"
-                          className={`nav-link ${
-                            currentPath == "/index2/" && "active"
-                          }`}
-                        >
-                          Home Demo - 2
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/index3/"
-                          className={`nav-link ${
-                            currentPath == "/index3/" && "active"
-                          }`}
-                        >
-                          Home Demo - 3
-                        </Link>
-                      </li>
-                    </ul>
                   </li>
 
                   <li className="nav-item">

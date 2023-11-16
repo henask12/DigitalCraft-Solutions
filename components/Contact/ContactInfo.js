@@ -11,9 +11,8 @@ const ContactInfo = () => {
                 <i className="fa fa-phone"></i>
               </div>
               <div className="content">
-                <h4>Phone / Fax</h4>
-                <p>(882) 569-7565</p>
-                <p>(882) 453-4565</p>
+                <h4>Phone</h4>
+                <p>(251) 917-253752</p>
               </div>
             </div>
           </div>

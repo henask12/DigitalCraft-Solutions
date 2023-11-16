@@ -52,8 +52,9 @@ const Navbar = () => {
         <div className="neemo-nav">
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
-              <Link href="/" className="navbar-brand">
-                <img src="/images/logo.png" alt="logo" />
+              <Link href="/" className="navbar-brand" style={{ color: 'teal' }}>
+                {/* <img src="/images/logo.png" alt="logo" /> */}
+                <span className="brand-name">Guramayle Digital Solutions</span>
               </Link>
 
               {/* Toggle navigation */}
@@ -79,41 +80,9 @@ const Navbar = () => {
                       href="/"
                       className={`nav-link ${currentPath == "/" && "active"}`}
                     >
-                      Home <i className="fa-solid fa-plus"></i>
+                      Home <i className="fa-solid"></i>
                     </Link>
 
-                    <ul className="dropdown-menu">
-                      <li className="nav-item">
-                        <Link
-                          href="/"
-                          className={`nav-link ${
-                            currentPath == "/" && "active"
-                          }`}
-                        >
-                          Home Demo - 1
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/index2/"
-                          className={`nav-link ${
-                            currentPath == "/index2/" && "active"
-                          }`}
-                        >
-                          Home Demo - 2
-                        </Link>
-                      </li>
-                      <li className="nav-item">
-                        <Link
-                          href="/index3/"
-                          className={`nav-link ${
-                            currentPath == "/index3/" && "active"
-                          }`}
-                        >
-                          Home Demo - 3
-                        </Link>
-                      </li>
-                    </ul>
                   </li>
 
                   <li className="nav-item">

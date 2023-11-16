@@ -142,7 +142,7 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-call-answer"></i>
                   <h3>Phone</h3>
-                  <span>(882) 569-7565</span>
+                  <span>(251) 917-253752</span>
                 </div>
 
                 <div className="footer-info-contact">

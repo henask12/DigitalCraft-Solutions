@@ -38,7 +38,7 @@ const ContactInfo = () => {
               <div className="content">
                 <h4>Location</h4>
                 <p>
-                  123, Western Road, Melbourne <br /> Australia
+                  Bole, Addis Ababa <br /> Ethiopia
                 </p>
               </div>
             </div>

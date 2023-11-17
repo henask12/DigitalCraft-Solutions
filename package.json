@@ -6,7 +6,8 @@
     "scripts": {
         "dev": "next dev",
         "build": "next build",
-        "start": "next start"
+        "start": "next start",
+        "build:netlify": "next build && mv .next"
     },
     "author": "EnvyTheme.com",
     "license": "ISC",

@@ -154,7 +154,7 @@ const Footer = () => {
                 <div className="footer-info-contact">
                   <i className="flaticon-placeholder-filled-point"></i>
                   <h3>Address</h3>
-                  <span>123, Western Road, Melbourne Australia</span>
+                  <span>Bole, Addis Ababa, Ethiopia</span>
                 </div>
               </div>
             </div>
@@ -187,9 +187,9 @@ const Footer = () => {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <p>
-                © {currentYear} Neemo. All Rights Reserved by{" "}
-                <a href="https://envytheme.com/" target="_blank">
-                  EnvyTheme
+                © {currentYear} Guramayle Digital Solutions. All Rights Reserved by{" "}
+                <a href="#" target="_blank">
+                Guramayle Digital Solutions
                 </a>
               </p>
             </div>

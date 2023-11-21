@@ -17,7 +17,7 @@ const AboutContent = () => {
                 <span>About Us</span>
                 <h3>We are Dynamic Team </h3>
                 <strong>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
+                  We are some team sit amet, consectetur adipiscing elit, sed
                   do eiusmod tempor incididunt labore dolore magna aliqua.
                 </strong>
                 <p>

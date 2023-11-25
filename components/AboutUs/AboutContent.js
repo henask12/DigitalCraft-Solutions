@@ -15,21 +15,19 @@ const AboutContent = () => {
             <div className="col-lg-6 col-md-12">
               <div className="about-area-content">
                 <span>About Us</span>
-                <h3>We are Dynamic Team of SEO Agency</h3>
+                <h3>We are Dynamic Team of Digital Solutions Agency</h3>
                 <strong>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt labore dolore magna aliqua.
+                Welcome to Guramayle Digital Solutions, where innovation converges with expertise to shape the digital landscape. 
                 </strong>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
-                  maecenas accumsan lacus vel facilisis.Lorem Ipsum is simply
-                  dummy text of the printing and typesetting industry.
+                We are more than a team; we are a collective force of diverse talents, united by a passion for crafting impactful digital experiences. 
+                In close collaboration with Ethiopian Airlines, our team includes digital marketing virtuosos, UI/UX visionaries, code maestros, cybersecurity guardians,
+                 and payment integration wizards, leading the way in comprehensive digital solutions. 
+                Together, we embark on a journey to elevate your brand's presence and redefine the digital skies.
                 </p>
               </div>
 
-              <div className="row">
+              {/* <div className="row">
                 <div className="col-lg-6 col-6 col--6">
                   <div className="single-fun-facts">
                     <h3>
@@ -49,7 +47,7 @@ const AboutContent = () => {
                     <p>Satisfied Clients</p>
                   </div>
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

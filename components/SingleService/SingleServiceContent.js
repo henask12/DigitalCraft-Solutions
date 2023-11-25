@@ -9,32 +9,22 @@ const SingleServiceContent = () => {
             <div className="row align-items-center">
               <div className="col-lg-6 col-md-12">
                 <div className="services-details-desc">
-                  <h3>Digital Marketing</h3>
+                  <h3>Full-stack Website Development</h3>
                   <p>
-                    There are many variations of passages of Lorem Ipsum
-                    available, but the majority have suffered alteration in some
-                    form, by injected humour, or randomised words which don't
-                    look even slightly believable.
+                    Unlock the full potential of your online presence with our
+                    full-stack website development services. We prioritize
+                    responsive and user-friendly design, customized UI/UX, and
+                    robust security with SSL implementation.
                   </p>
 
                   <div className="features-text">
                     <h4>
-                      <i className="flaticon-check-mark"></i> Core Development
+                      <i className="flaticon-check-mark"></i> Key Features
                     </h4>
                     <p>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem Ipsum has been the industry's.
-                    </p>
-                  </div>
-
-                  <div className="features-text">
-                    <h4>
-                      <i className="flaticon-check-mark"></i> Define Your
-                      Choices
-                    </h4>
-                    <p>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem Ipsum has been the industry's.
+                      From creative UI/UX design to secure payment gateway
+                      integration, we ensure ongoing maintenance and updates for
+                      optimal performance.
                     </p>
                   </div>
                 </div>
@@ -58,30 +48,22 @@ const SingleServiceContent = () => {
 
               <div className="col-lg-6 col-md-12">
                 <div className="services-details-desc">
-                  <h3>Social Media Marketing</h3>
+                  <h3>E-commerce Solutions</h3>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting industry. Lorem Ipsum has been the industry's.
+                    Elevate your business with our comprehensive e-commerce
+                    solutions. We specialize in website development, payment
+                    integration, product catalog design, and user experience
+                    optimization.
                   </p>
 
                   <div className="features-text">
                     <h4>
-                      <i className="flaticon-check-mark"></i> Core Development
+                      <i className="flaticon-check-mark"></i> Key Features
                     </h4>
                     <p>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem Ipsum has been the industry's.
-                    </p>
-                  </div>
-
-                  <div className="features-text">
-                    <h4>
-                      <i className="flaticon-check-mark"></i> Define Your
-                      Choices
-                    </h4>
-                    <p>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem Ipsum has been the industry's.
+                      Our services include cybersecurity and data protection,
+                      SEO, and digital marketing strategies tailored for
+                      e-commerce businesses.
                     </p>
                   </div>
                 </div>

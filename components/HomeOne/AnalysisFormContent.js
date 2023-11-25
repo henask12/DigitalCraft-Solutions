@@ -13,12 +13,11 @@ const AnalysisFormContent = () => {
             </div>
 
             <div className="col-lg-6 col-md-12">
-              <div className="analysis-area-content">
+              <div className="analysis-area-content mt-4">
                 <span>Analysis</span>
                 <h3>Get Free SEO Analysis</h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna.
+                 Unlock the potential of your online presence with our complimentary SEO analysis. 
                 </p>
               </div>
 

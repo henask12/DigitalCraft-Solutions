@@ -25,7 +25,7 @@ class TabsContent extends Component {
                 <div className="container">
                     <div className="section-title">
                         <span>Boosting</span>
-                        <h3>Outstanding Digital Experience</h3>
+                        <h3>Our Outstanding Experience</h3>
                     </div>
 
                     <div className="tab boosting-list-tab">

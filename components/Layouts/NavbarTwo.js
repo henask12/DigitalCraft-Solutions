@@ -177,7 +177,7 @@ const Navbar = () => {
                     </ul>
                   </li>
 
-                  <li className="nav-item">
+                  {/* <li className="nav-item">
                     <Link
                       href="/blog/"
                       className={`nav-link ${
@@ -210,7 +210,7 @@ const Navbar = () => {
                         </Link>
                       </li>
                     </ul>
-                  </li>
+                  </li> */}
 
                   <li className="nav-item">
                     <Link

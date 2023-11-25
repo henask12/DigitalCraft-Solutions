@@ -195,7 +195,7 @@ const Footer = () => {
               </p>
             </div>
 
-            <div className="col-lg-6">
+            {/* <div className="col-lg-6">
               <ul>
                 <li>
                   <Link href="/terms-conditions">
@@ -208,7 +208,7 @@ const Footer = () => {
                   </Link>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

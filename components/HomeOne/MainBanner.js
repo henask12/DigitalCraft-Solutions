@@ -23,8 +23,8 @@ const MainBanner = () => {
                   <div className="main-banner-content">
                     <h1>Digital Solutions For Your Business</h1>
                     <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                      eiusmod tempor incididunt ut labore.
+                    At our consultancy, we specialize in Digital Marketing, Web Development, and Cybersecurity, providing tailored solutions to small businesses.
+                     Partner with us to enhanve your oline presence and secure your digital assetsy.
                     </p>
 
                     <div className="banner-btn">

@@ -36,15 +36,15 @@ const Index = () => {
 
       <TeamCard />
 
-      <TestimonialSection />
+      {/* <TestimonialSection /> */}
 
       <AnalysisFormContent />
 
-      <BlogCardSection />
+      {/* <BlogCardSection /> */}
 
-      <div className="pb-100">
+      {/* <div className="pb-100 mt-4">
         <PartnerLogos />
-      </div>
+      </div> */}
 
       <SubscribeStyleOne />
 

@@ -433,7 +433,7 @@ const Navbar = () => {
             <div className="contact-info">
               <div className="contact-info-content">
                 <h2>
-                  <span className="info">+088 130 629 8615</span>
+                  <span className="info">+251917253752</span>
                   <span className="or">OR</span>
                   <span className="info">info@neemo.com</span>
                 </h2>

@@ -62,13 +62,11 @@ const ContactForm = () => {
               <div className="contact-text">
                 <h3>Get in Touch</h3>
                 <p>
-                  Orci varius natoque penatibus et magnis dis parturient montes,
-                  nascetur ridiculus mus. Etiam tempus magna vel turpis pharetra
-                  dictum.
+                Reach out to us for any inquiries or to discuss how we can elevate your digital presence.
+                Our team is ready to assist you on your journey to success.
                 </p>
                 <p>
-                  Sed blandit tempus purus, sed sodales leo rutrum vel. Nam
-                  vulputate ipsum ac est congue, eget commodo magna lobortis.
+                We believe in open communication and collaboration. Let's bring your ideas to life!
                 </p>
 
                 <ul className="social-links">

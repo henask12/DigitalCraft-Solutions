@@ -2,7 +2,7 @@ import React from "react";
 import Navbar from "../components/Layouts/Navbar";
 import PageBanner from "../components/Common/PageBanner";
 import AboutContent from "../components/AboutUs/AboutContent";
-import FeaturesArea from "../components/HomeTwo/FeaturesArea";
+import FeaturesArea from "../components/HomeOne/FeaturesContent";
 import ServicesContent from "../components/Common/ServicesContent";
 import PricingContent from "../components/PricingPlans/PricingContent";
 import ProjectsStyleTwo from "../components/Projects/ProjectsStyleTwo";
@@ -10,7 +10,6 @@ import TeamCard from "../components/Common/TeamCard";
 import SubscribeStyleTwo from "../components/Common/SubscribeStyleTwo";
 import PartnerLogos from "../components/Common/PartnerLogos";
 import Footer from "../components/Layouts/Footer";
-import Navbar from "../components/Layouts/Navbar";
 
 const AboutUs = () => {
   return (
@@ -30,7 +29,7 @@ const AboutUs = () => {
 
       <ServicesContent />
 
-      <PricingContent />
+      {/* <PricingContent /> */}
 
       <ProjectsStyleTwo />
 
@@ -38,9 +37,9 @@ const AboutUs = () => {
 
       <SubscribeStyleTwo />
 
-      <div className="ptb-100">
+      {/* <div className="ptb-100">
         <PartnerLogos />
-      </div>
+      </div> */}
 
       <Footer />
     </>

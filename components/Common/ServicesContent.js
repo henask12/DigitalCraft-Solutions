@@ -19,13 +19,13 @@ const ServicesContent = () => {
                 </div>
                 <h3>
                   <Link href="/single-service/">
-                    Search Engine Optimization
+                  Full-stack website development
                   </Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incutu labore et dolore magna aliqua.
-                </p>
+                Crafted with responsive and user-friendly design, customized UI/UX, and secured with SSL implementation. 
+                 We also provide payment gateway integration and ongoing maintenance and updates.
+              </p>
               </div>
             </div>
 
@@ -35,11 +35,11 @@ const ServicesContent = () => {
                   <i className="flaticon-goal"></i>
                 </div>
                 <h3>
-                  <Link href="/single-service/">Social Media Strategy</Link>
+                  <Link href="/single-service/">E-commerce Solutions</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incutu labore et dolore magna aliqua.
+                  Elevate your business with e-commerce website development, payment integration, product catalog design, 
+                  user experience optimization, and cybersecurity measures. We also offer SEO and digital marketing services.
                 </p>
               </div>
             </div>
@@ -50,11 +50,11 @@ const ServicesContent = () => {
                   <i className="flaticon-contract"></i>
                 </div>
                 <h3>
-                  <Link href="/single-service/">Real Time and Data</Link>
+                  <Link href="/single-service/">Digital Marketing Strategy</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incutu labore et dolore magna aliqua.
+                  Drive your online presence with market research, SEO optimization, content marketing, social media management, 
+                  email campaigns, pay-per-click advertising, and comprehensive analytics.
                 </p>
               </div>
             </div>
@@ -65,11 +65,11 @@ const ServicesContent = () => {
                   <i className="flaticon-application"></i>
                 </div>
                 <h3>
-                  <Link href="/single-service/">Online Media Management</Link>
+                  <Link href="/single-service/">UI/UX Design and Redesign</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incutu labore et dolore magna aliqua.
+                  Elevate user experiences with UI/UX design, website or app redesign, usability testing, accessibility enhancements, 
+                   user journey mapping, and A/B testing for optimal conversion rates.
                 </p>
               </div>
             </div>
@@ -80,11 +80,11 @@ const ServicesContent = () => {
                   <i className="flaticon-seo"></i>
                 </div>
                 <h3>
-                  <Link href="/single-service/">Reporting & Analysis</Link>
+                  <Link href="/single-service/">Cybersecurity Assessment and Implementation</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incutu labore et dolore magna aliqua.
+                  Strengthen your digital defenses with cybersecurity audits, vulnerability testing, data encryption, employee training, 
+                  continuous monitoring, and compliance with industry regulations.
                 </p>
               </div>
             </div>
@@ -95,11 +95,11 @@ const ServicesContent = () => {
                   <i className="flaticon-data-recovery"></i>
                 </div>
                 <h3>
-                  <Link href="/single-service/">Penalty Recovery</Link>
+                  <Link href="/single-service/">Payment Integration and Security</Link>
                 </h3>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incutu labore et dolore magna aliqua.
+                  Ensure secure transactions with payment gateway integration, PCI DSS compliance, fraud prevention measures, 
+                  secure authentication, authorization, and ongoing support for payment systems.
                 </p>
               </div>
             </div>

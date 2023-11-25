@@ -5145,3 +5145,8 @@ Go Top CSS
   font-weight: bold;
   color: #008080;
 }
+@media (max-width: 767px) {
+  .brand-name {
+    display: none;
+  }
+}

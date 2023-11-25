@@ -373,10 +373,10 @@ const Navbar = () => {
             <div className="title">
               <h2>About Us</h2>
               <p>
-                We believe brand interaction is key to communication. Real
-                innovations and positive customer experience are the heart of
-                successful communication. No fake products and services. The
-                customer is king, their lives and needs are the inspiration.
+                We are more than a team; we are a collective force of diverse talents, united by a passion for crafting impactful digital experiences. 
+                In close collaboration with Ethiopian Airlines, our team includes digital marketing virtuosos, UI/UX visionaries, code maestros, cybersecurity guardians,
+                 and payment integration wizards, leading the way in comprehensive digital solutions. 
+                Together, we embark on a journey to elevate your brand's presence and redefine the digital skies.
               </p>
             </div>
           </div>
@@ -433,7 +433,7 @@ const Navbar = () => {
             <div className="contact-info">
               <div className="contact-info-content">
                 <h2>
-                  <span className="info">+088 130 629 8615</span>
+                  <span className="info">+251917253752</span>
                   <span className="or">OR</span>
                   <span className="info">info@neemo.com</span>
                 </h2>

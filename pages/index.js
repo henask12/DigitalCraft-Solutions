@@ -21,18 +21,16 @@ const Index = () => {
       <Navbar />
 
       <MainBanner />
-
-       <FeaturesContent />
-
       <div className="pb-100">
         <AboutContent />
       </div>
+       <FeaturesContent />
 
-      <ServicesContent />
-
-      <WhyChooseUs />
+      {/* <ServicesContent /> */}
 
       <TabsContent />
+
+      <WhyChooseUs />
 
       <ProjectsStyleOne />
 

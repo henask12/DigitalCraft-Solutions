@@ -15,9 +15,10 @@ const Footer = () => {
                 </div>
 
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                  Quis ipsum suspendisse ultrices gravida. Risus commodo viverra
+                We are more than a team; we are a collective force of diverse talents, united by a passion for crafting impactful digital experiences. 
+                In close collaboration with Ethiopian Airlines, our team includes digital marketing virtuosos, UI/UX visionaries, code maestros, cybersecurity guardians, 
+                and payment integration wizards, leading the way in comprehensive digital solutions. 
+                Together, we embark on a journey to elevate your brand's presence and redefine the digital skies.
                 </p>
 
                 <ul className="footer-social">

@@ -103,10 +103,10 @@ const Navbar = () => {
                         currentPath == "/services/" && "active"
                       }`}
                     >
-                      Services <i className="fa-solid fa-plus"></i>
+                      Services <i className="fa-solid"></i>
                     </Link>
 
-                    <ul className="dropdown-menu">
+                    {/* <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
                           href="/services/"
@@ -128,7 +128,7 @@ const Navbar = () => {
                           Service Details
                         </Link>
                       </li>
-                    </ul>
+                    </ul> */}
                   </li>
 
                   <li className="nav-item">
@@ -138,10 +138,10 @@ const Navbar = () => {
                         currentPath == "/projects/" && "active"
                       }`}
                     >
-                      Projects <i className="fa-solid fa-plus"></i>
+                      Projects <i className="fa-solid"></i>
                     </Link>
 
-                    <ul className="dropdown-menu">
+                    {/* <ul className="dropdown-menu">
                       <li className="nav-item">
                         <Link
                           href="/projects/"
@@ -174,7 +174,7 @@ const Navbar = () => {
                           Project Details
                         </Link>
                       </li>
-                    </ul>
+                    </ul> */}
                   </li>
 
                   {/* <li className="nav-item">

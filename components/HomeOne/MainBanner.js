@@ -23,7 +23,7 @@ const MainBanner = () => {
                   <div className="main-banner-content">
                     <h1>Digital Solutions For Your Business</h1>
                     <p>
-                    At our consultancy, we specialize in Digital Marketing, Web Development, and Cybersecurity, providing tailored solutions to small businesses.
+                     At our consultancy, we specialize in Digital Marketing, Web Development, and Cybersecurity, providing tailored solutions to small businesses.
                      Partner with us to enhanve your oline presence and secure your digital assetsy.
                     </p>
 
@@ -131,7 +131,7 @@ const MainBanner = () => {
         </div>
 
         {/* Shape Images */}
-        <div className="shape-img1">
+        {/* <div className="shape-img1">
           <img src="/images/shape/1.png" alt="image" />
         </div>
         <div className="shape-img2">
@@ -163,7 +163,7 @@ const MainBanner = () => {
         </div>
         <div className="shape-img11">
           <img src="/images/shape/11.png" alt="image" />
-        </div>
+        </div> */}
       </div>
     </>
   );

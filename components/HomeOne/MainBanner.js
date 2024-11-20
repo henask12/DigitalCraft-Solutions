@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import FsLightbox from "fslightbox-react";
-import Link from "next/link"; 
+import Link from "next/link";
 
 const MainBanner = () => {
   const [toggler, setToggler] = useState(false);
@@ -8,11 +8,9 @@ const MainBanner = () => {
   return (
     <>
       <FsLightbox
-				toggler={toggler}
-				sources={[
-					'https://www.youtube.com/watch?v=_ysd-zHamjk',
-				]}
-			/>
+        toggler={toggler}
+        sources={["https://www.youtube.com/watch?v=_ysd-zHamjk"]}
+      />
 
       <div className="main-banner">
         <div className="d-table">
@@ -23,8 +21,9 @@ const MainBanner = () => {
                   <div className="main-banner-content">
                     <h1>Digital Solutions For Your Business</h1>
                     <p>
-                     At our consultancy, we specialize in Digital Marketing, Web Development, and Cybersecurity, providing tailored solutions to small businesses.
-                     Partner with us to enhanve your oline presence and secure your digital assetsy.
+                      Ras Tech Solutions is a leading provider of innovative and
+                      reliable technology solutions designed to help businesses
+                      thrive in the digital age.
                     </p>
 
                     <div className="banner-btn">

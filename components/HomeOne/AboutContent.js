@@ -17,13 +17,18 @@ const AboutContent = () => {
                 <span>About Us</span>
                 <h3>We are Dynamic Team of Digital Solutions Agency</h3>
                 <strong>
-                Welcome to Guramayle Digital Solutions, where innovation converges with expertise to shape the digital landscape. 
+                  Welcome to Ras Tech Solutions, where expertise meets
+                  innovation to transform the digital world.{" "}
                 </strong>
                 <p>
-                We are more than a team; we are a collective force of diverse talents, united by a passion for crafting impactful digital experiences. 
-                In close collaboration with Ethiopian Airlines, our team includes digital marketing virtuosos, UI/UX visionaries, code maestros, cybersecurity guardians,
-                 and payment integration wizards, leading the way in comprehensive digital solutions. 
-                Together, we embark on a journey to elevate your brand's presence and redefine the digital skies.
+                  Our team, with over six years of experience, has worked with
+                  leading organizations like Ethiopian Airlines to deliver
+                  cutting-edge solutions. Comprising skilled professionals in
+                  digital marketing, UI/UX design, software development,
+                  cybersecurity, and payment integration, we are dedicated to
+                  crafting impactful and seamless digital experiences. At Ras
+                  Tech Solutions, we are committed to elevating your brand and
+                  driving success in todays ever-evolving digital landscape.
                 </p>
               </div>
 

@@ -1,7 +1,7 @@
 {
     "name": "neemo",
     "version": "2.2.0",
-    "description": "Guramayle Digital Solutions",
+    "description": "Ras Tech Solutions",
     "main": "index.js",
     "scripts": {
         "dev": "next dev",

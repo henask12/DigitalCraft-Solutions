@@ -54,7 +54,7 @@ const Navbar = () => {
             <nav className="navbar navbar-expand-md navbar-light">
               <Link href="/" className="navbar-brand" style={{ color: 'teal' }}>
                 {/* <img src="/images/logo.png" alt="logo" /> */}
-                <span className="brand-name">Guramayle Digital Solutions</span>
+                <span className="brand-name">Ras Tech Solutions</span>
               </Link>
 
               {/* Toggle navigation */}

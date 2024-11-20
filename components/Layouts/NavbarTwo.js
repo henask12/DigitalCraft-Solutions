@@ -53,7 +53,7 @@ const Navbar = () => {
           <div className="container">
             <nav className="navbar navbar-expand-md navbar-light">
             <Link href="/" className="navbar-brand">
-            <span className="brand-name">Guramayle Digital Solutions</span>
+            <span className="brand-name">Ras Tech Solutions</span>
             </Link>
 
 

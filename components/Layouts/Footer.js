@@ -188,9 +188,9 @@ const Footer = () => {
           <div className="row align-items-center">
             <div className="col-lg-6">
               <p>
-                © {currentYear} Guramayle Digital Solutions. All Rights Reserved by{" "}
+                © {currentYear} Ras Tech Solutions. All Rights Reserved by{" "}
                 <a href="#" target="_blank">
-                Guramayle Digital Solutions
+                Ras Tech Solutions
                 </a>
               </p>
             </div>

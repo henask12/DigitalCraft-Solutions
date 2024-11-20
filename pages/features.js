@@ -21,9 +21,9 @@ const Features = () => {
 
       <FeaturesContent />
 
-      <div className="pb-100">
+      {/* <div className="pb-100">
         <TabsContent />
-      </div>
+      </div> */}
 
       <SubscribeStyleTwo />
 

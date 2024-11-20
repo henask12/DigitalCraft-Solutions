@@ -15,7 +15,7 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/1.jpg" alt="image" />
+                  <img src="/images/profile/hena.jpg" alt="image" />
                 </div>
 
                 <div className="team-content">
@@ -24,7 +24,7 @@ const TeamCard = () => {
 
                   <ul className="team-social">
                     <li>
-                      <a href="https://www.linkedin.com/" target="_blank">
+                      <a href="https://www.linkedin.com/hmekonnen3" target="_blank">
                         <i className="fab fa-linkedin-in"></i>
                       </a>
                     </li>
@@ -51,7 +51,7 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/2.jpg" alt="image" />
+                  <img src="/images/profile/nati.jpg" alt="image" />
                 </div>
 
                 <div className="team-content">
@@ -87,7 +87,7 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/3.jpg" alt="image" />
+                  <img src="/images/profile/iyu.png" alt="image" />
                 </div>
 
                 <div className="team-content">
@@ -122,7 +122,7 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/2.jpg" alt="image" />
+                  <img src="/images/profile/mike.jpg" alt="image" />
                 </div>
 
                 <div className="team-content">
@@ -158,7 +158,7 @@ const TeamCard = () => {
             <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/3.jpg" alt="image" />
+                  <img src="/images/profile/eyob.jpg" alt="image" />
                 </div>
 
                 <div className="team-content">
@@ -190,7 +190,7 @@ const TeamCard = () => {
                 </div>
               </div>
             </div>
-            
+
           </div>
 
 

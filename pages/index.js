@@ -28,9 +28,9 @@ const Index = () => {
 
       {/* <ServicesContent /> */}
 
-      <TabsContent />
+      {/* <TabsContent />
 
-      <WhyChooseUs />
+      <WhyChooseUs /> */}
 
       <ProjectsStyleOne />
 

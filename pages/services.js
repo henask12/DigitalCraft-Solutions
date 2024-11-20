@@ -21,7 +21,7 @@ const Services = () => {
 
       <ServicesContent />
 
-      <WhyChooseUs />
+      {/* <WhyChooseUs /> */}
 
       <SubscribeStyleTwo />
 

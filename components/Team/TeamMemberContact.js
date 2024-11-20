@@ -11,7 +11,8 @@ const TeamMemberContact = () => {
           </div>
 
           <div className="row justify-content-center">
-            <div className="col-lg-4 col-md-6">
+
+          <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
                   <img src="/images/team/1.jpg" alt="image" />
@@ -47,15 +48,15 @@ const TeamMemberContact = () => {
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6">
+            <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
                   <img src="/images/team/2.jpg" alt="image" />
                 </div>
 
                 <div className="team-content">
-                  <h3>Natinael Wondwossen</h3>
-                  <span>Digital Marketing</span>
+                  <h3>Natnael Wondwossen</h3>
+                  <span>CFO And Co-founder</span>
 
                   <ul className="team-social">
                     <li>
@@ -83,7 +84,7 @@ const TeamMemberContact = () => {
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6">
+            <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
                   <img src="/images/team/3.jpg" alt="image" />
@@ -91,7 +92,42 @@ const TeamMemberContact = () => {
 
                 <div className="team-content">
                   <h3>Iyasu Assefa</h3>
-                  <span>Project Manager</span>
+                  <span>CFO And Co-founder</span>
+
+                  <ul className="team-social">
+                    <li>
+                      <a href="https://www.linkedin.com/" target="_blank">
+                        <i className="fab fa-linkedin-in"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.facebook.com/" target="_blank">
+                        <i className="fab fa-facebook-f"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://twitter.com/" target="_blank">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.instagram.com/" target="_blank">
+                        <i className="fab fa-instagram"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-4 col-sm-6">
+              <div className="team-item-area">
+                <div className="team-image">
+                  <img src="/images/team/2.jpg" alt="image" />
+                </div>
+
+                <div className="team-content">
+                  <h3>Mickias Mengistu</h3>
+                  <span>VP Marketing And Co-founder</span>
 
                   <ul className="team-social">
                     <li>
@@ -119,15 +155,15 @@ const TeamMemberContact = () => {
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6">
+            <div className="col-lg-4 col-sm-6">
               <div className="team-item-area">
                 <div className="team-image">
-                  <img src="/images/team/4.jpg" alt="image" />
+                  <img src="/images/team/3.jpg" alt="image" />
                 </div>
 
                 <div className="team-content">
                   <h3>Eyob Tesfaye</h3>
-                  <span>Marketing Manager</span>
+                  <span>CIO And Co-founder</span>
 
                   <ul className="team-social">
                     <li>
@@ -155,77 +191,6 @@ const TeamMemberContact = () => {
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6">
-              <div className="team-item-area">
-                <div className="team-image">
-                  <img src="/images/team/5.jpg" alt="image" />
-                </div>
-
-                <div className="team-content">
-                  <h3>Henok Mekonne</h3>
-                  <span>Supervisor</span>
-
-                  <ul className="team-social">
-                    <li>
-                      <a href="https://www.linkedin.com/" target="_blank">
-                        <i className="fab fa-linkedin-in"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.facebook.com/" target="_blank">
-                        <i className="fab fa-facebook-f"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://twitter.com/" target="_blank">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.instagram.com/" target="_blank">
-                        <i className="fab fa-instagram"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
-
-            <div className="col-lg-4 col-md-6">
-              <div className="team-item-area">
-                <div className="team-image">
-                  <img src="/images/team/6.jpg" alt="image" />
-                </div>
-
-                <div className="team-content">
-                  <h3>Natinael Wondwossen</h3>
-                  <span>Office Manager</span>
-
-                  <ul className="team-social">
-                    <li>
-                      <a href="https://www.linkedin.com/" target="_blank">
-                        <i className="fab fa-linkedin-in"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.facebook.com/" target="_blank">
-                        <i className="fab fa-facebook-f"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://twitter.com/" target="_blank">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    </li>
-                    <li>
-                      <a href="https://www.instagram.com/" target="_blank">
-                        <i className="fab fa-instagram"></i>
-                      </a>
-                    </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
 

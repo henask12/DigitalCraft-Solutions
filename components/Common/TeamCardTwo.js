@@ -11,17 +11,18 @@ const TeamCardTwo = () => {
           </div>
 
           <div className="row justify-content-center">
-            <div className="col-lg-4 col-md-6">
-              <div className="team-item">
-                <div className="image">
-                  <img src="/images/team/4.jpg" alt="image" />
+            
+          <div className="col-lg-4 col-sm-6">
+              <div className="team-item-area">
+                <div className="team-image">
+                  <img src="/images/team/1.jpg" alt="image" />
+                </div>
 
-                  <ul className="social">
-                    <li>
-                      <a href="https://www.twitter.com/" target="_blank">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    </li>
+                <div className="team-content">
+                  <h3>Henok Mekonnen</h3>
+                  <span>CEO & Founder</span>
+
+                  <ul className="team-social">
                     <li>
                       <a href="https://www.linkedin.com/" target="_blank">
                         <i className="fab fa-linkedin-in"></i>
@@ -33,30 +34,31 @@ const TeamCardTwo = () => {
                       </a>
                     </li>
                     <li>
+                      <a href="https://twitter.com/" target="_blank">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
                       <a href="https://www.instagram.com/" target="_blank">
                         <i className="fab fa-instagram"></i>
                       </a>
                     </li>
                   </ul>
                 </div>
-                <div className="content bg-ffffff">
-                  <h3>James Adult</h3>
-                  <span>Cardiologist</span>
-                </div>
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6">
-              <div className="team-item">
-                <div className="image">
-                  <img src="/images/team/5.jpg" alt="image" />
+            <div className="col-lg-4 col-sm-6">
+              <div className="team-item-area">
+                <div className="team-image">
+                  <img src="/images/team/2.jpg" alt="image" />
+                </div>
 
-                  <ul className="social">
-                    <li>
-                      <a href="https://www.twitter.com/" target="_blank">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    </li>
+                <div className="team-content">
+                  <h3>Natnael Wondwossen</h3>
+                  <span>CFO And Co-founder</span>
+
+                  <ul className="team-social">
                     <li>
                       <a href="https://www.linkedin.com/" target="_blank">
                         <i className="fab fa-linkedin-in"></i>
@@ -68,30 +70,31 @@ const TeamCardTwo = () => {
                       </a>
                     </li>
                     <li>
+                      <a href="https://twitter.com/" target="_blank">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
                       <a href="https://www.instagram.com/" target="_blank">
                         <i className="fab fa-instagram"></i>
                       </a>
                     </li>
                   </ul>
                 </div>
-                <div className="content bg-ffffff">
-                  <h3>James Alison</h3>
-                  <span>Medicine</span>
-                </div>
               </div>
             </div>
 
-            <div className="col-lg-4 col-md-6">
-              <div className="team-item">
-                <div className="image">
-                  <img src="/images/team/6.jpg" alt="image" />
+            <div className="col-lg-4 col-sm-6">
+              <div className="team-item-area">
+                <div className="team-image">
+                  <img src="/images/team/3.jpg" alt="image" />
+                </div>
 
-                  <ul className="social">
-                    <li>
-                      <a href="https://www.twitter.com/" target="_blank">
-                        <i className="fab fa-twitter"></i>
-                      </a>
-                    </li>
+                <div className="team-content">
+                  <h3>Iyasu Assefa</h3>
+                  <span>CFO And Co-founder</span>
+
+                  <ul className="team-social">
                     <li>
                       <a href="https://www.linkedin.com/" target="_blank">
                         <i className="fab fa-linkedin-in"></i>
@@ -103,18 +106,92 @@ const TeamCardTwo = () => {
                       </a>
                     </li>
                     <li>
+                      <a href="https://twitter.com/" target="_blank">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
                       <a href="https://www.instagram.com/" target="_blank">
                         <i className="fab fa-instagram"></i>
                       </a>
                     </li>
                   </ul>
                 </div>
-                <div className="content bg-ffffff">
-                  <h3>Jelin Alis</h3>
-                  <span>Neurologiest</span>
+              </div>
+            </div>
+            <div className="col-lg-4 col-sm-6">
+              <div className="team-item-area">
+                <div className="team-image">
+                  <img src="/images/team/2.jpg" alt="image" />
+                </div>
+
+                <div className="team-content">
+                  <h3>Mickias Mengistu</h3>
+                  <span>VP Marketing And Co-founder</span>
+
+                  <ul className="team-social">
+                    <li>
+                      <a href="https://www.linkedin.com/" target="_blank">
+                        <i className="fab fa-linkedin-in"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.facebook.com/" target="_blank">
+                        <i className="fab fa-facebook-f"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://twitter.com/" target="_blank">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.instagram.com/" target="_blank">
+                        <i className="fab fa-instagram"></i>
+                      </a>
+                    </li>
+                  </ul>
                 </div>
               </div>
             </div>
+
+            <div className="col-lg-4 col-sm-6">
+              <div className="team-item-area">
+                <div className="team-image">
+                  <img src="/images/team/3.jpg" alt="image" />
+                </div>
+
+                <div className="team-content">
+                  <h3>Eyob Tesfaye</h3>
+                  <span>CIO And Co-founder</span>
+
+                  <ul className="team-social">
+                    <li>
+                      <a href="https://www.linkedin.com/" target="_blank">
+                        <i className="fab fa-linkedin-in"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.facebook.com/" target="_blank">
+                        <i className="fab fa-facebook-f"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://twitter.com/" target="_blank">
+                        <i className="fab fa-twitter"></i>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://www.instagram.com/" target="_blank">
+                        <i className="fab fa-instagram"></i>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+
           </div>
         </div>
       </div>
